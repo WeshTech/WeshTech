@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Waweru</h1>
-<h3 align="center">A passionate AWS cloud development.</h3>
+<h3 align="center">Passionate about AWS cloud development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weshtech" alt="weshtech" /></a> </p>
 
